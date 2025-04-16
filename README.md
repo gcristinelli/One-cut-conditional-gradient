@@ -1,5 +1,5 @@
 # One-cut-conditional-gradient
-[![DOI](https://zenodo.org/badge/710899648.svg)](https://zenodo.org/doi/10.5281/zenodo.15231118)
+[![DOI](https://zenodo.org/badge/967498652.svg)](https://doi.org/10.5281/zenodo.15231157)
 
 Authors: Giacomo Cristinelli, José A. Iglesias, Daniel Walter
 
