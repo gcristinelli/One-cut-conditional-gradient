@@ -4,7 +4,7 @@ Authors: Giacomo Cristinelli, José A. Iglesias, Daniel Walter
 
 This module solves the control problem with Total Variation regularization
 
-$$\min_{u\in BV(\Omega)} \frac{1}{2\alpha} |Ku-y_d|^2 + \operatorname{TV}(u,\Omega)$$
+$$\min_{u\in BV(\Omega)} \frac{1}{2\alpha} |Ku-y_d|^2 + \text{TV}(u,\Omega)$$
 
 where K is an operator associated with a linear PDE.
 
